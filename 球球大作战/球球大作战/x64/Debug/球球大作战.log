@@ -1,0 +1,48 @@
+﻿  球球大作战.cpp
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(390,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(811,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(852,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(862,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(869,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(893,21): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(897,21): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(901,21): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(905,21): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(937,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(961,84): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(962,89): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(963,89): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(996,24): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1002,24): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1008,24): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1014,24): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1020,24): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1026,24): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1046,21): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1244,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1249,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1264,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1404,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1405,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1510,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1511,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1512,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1532,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1533,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1534,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1548,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1551,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1553,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1555,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1557,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1591,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1594,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1596,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1598,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1600,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1628,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1631,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1633,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1635,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\球球大作战\球球大作战\球球大作战.cpp(1637,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  球球大作战.vcxproj -> D:\VS项目\球球大作战\x64\Debug\球球大作战.exe
